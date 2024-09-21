@@ -31,8 +31,8 @@ London gigging group
  - Hania Rani @ Roundhouse Th 26 Oct 2023
  - Billy Cobham @ Jazz Cafe - We 25 October 2023
  - Matthew Halsall @ Royal Albert Hall Th 21 Sep 2023
- - Aphex Twin + Jon Hopkins @ Field Day Sa 19 Aug 2023
  - Jacob Collier & friends @ Union Chapel Th 31 Aug 2023
+ - Aphex Twin + Jon Hopkins @ Field Day Sa 19 Aug 2023
  - Darkside @ Koko Mo 19 Jun 2023
  - GoGo Penguin @ Roundhouse Th 25 May 2023
  - Winged Victory for the Sullen @ Barbican Su 14 May 2023
