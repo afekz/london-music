@@ -14,6 +14,7 @@ London gigging group
 
 ### done as of commit date
  - Jazz Cafe Festival @ Burgess Park Su 15 Sep 2024
+ - Jamie Pye Quartet @ Arthouse Su 25 Aug 2024
  - The Roots & De La Soul @ Crystal Palace Bowl Th 1 Aug 2024
  - Nils Frahm @ Barbican Su 14 Jul 2024
  - Ana Carla Maza @ Jazz Cafe Th 18 Apr 2024
