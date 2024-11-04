@@ -2,8 +2,10 @@
 London gigging group
 
 ### coming up
- - Tangerine Dream @ Barbican Mo 7 Oct 2024
- - Yo-Yo Ma and Kathryn Stott @ Barbican Sa 2 Nov 2024
+ - Jon Hopkins @ EartH Hackney Mo 11 Nov 2024
+ - London Grammar @ O2 Th 14 Nov 2024
+ - Meshell Ndegeocello @ Koko Fr 15 Nov 2024
+ - Pat Metheny @ Barbican Sa 16 Nov 2024
  - Tigran Hamasyan @ Cadogan (EFG London Jazz) Su 17 Nov 2024
  - Roberto Fonseca @ Cadogan (EFG London Jazz) We 20 Nov 2024
  - Terry Farley @ Firefly Reading Sa 23 Nov 2024
@@ -11,6 +13,7 @@ London gigging group
  - Front 242 @ Electric Ballroom Su 8 Dec 2024
  - Richard Bona @ Jazz Cafe, Camden Th 13 Feb 2025
  - Martha Argerich @ Barbican Mo 24 Feb 2025
+ - Sigur Rós & London Contemporary Orchestra @ Royal Albert Hall [Tu 30 Sep-Th 2 Oct?] 2025
 
 ### done as of commit date
  - Jazz Cafe Festival @ Burgess Park Su 15 Sep 2024
